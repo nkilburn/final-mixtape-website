@@ -1,0 +1,12 @@
+
+## Customization
+- **Colors & Fonts** – All design tokens are CSS variables in the `:root` block
+- **J‑card** – Add tracks to `season1Tracks` array, up to 20 entries
+- **RSS Feed** – Update podcast details and episode `<item>` blocks
+
+## Deployment
+Simply host the static files on any web server, Netlify, Vercel, or GitHub Pages.
+
+---
+
+Made with ❤️ and vinyl crackle.

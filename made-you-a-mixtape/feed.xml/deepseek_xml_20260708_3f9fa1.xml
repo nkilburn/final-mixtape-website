@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Made You A Mixtape</title>
+    <link>https://www.madeyouamixtape.com</link>
+    <description>One song per episode – deep dives into the history, production, and stories behind the music that shaped us.</description>
+    <language>en-us</language>
+    <itunes:author>Alex Rivera</itunes:author>
+    <itunes:summary>One song per episode – deep dives into the history, production, and stories behind the music that shaped us.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Alex Rivera</itunes:name>
+      <itunes:email>hello@madeyouamixtape.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.madeyouamixtape.com/cover.jpg"/>
+    <itunes:category text="Music"/>
+    <itunes:category text="Music History"/>
+
+    <!-- EPISODE 12 -->
+    <item>
+      <title>God Only Knows – The Beach Boys</title>
+      <description><![CDATA[<p>Brian Wilson called it his finest work. Paul McCartney said it's the greatest song ever written. We unpack the layered harmonies, the Wrecking Crew's session, and Carl Wilson's unforgettable vocal take.</p>]]></description>
+      <link>https://www.madeyouamixtape.com/episodes/god-only-knows</link>
+      <enclosure url="https://www.madeyouamixtape.com/audio/ep12.mp3" length="35000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep12-god-only-knows</guid>
+      <pubDate>Thu, 12 Jun 2026 09:00:00 GMT</pubDate>
+      <itunes:duration>42:00</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+    </item>
+
+    <!-- Add more <item> elements for each episode -->
+  </channel>
+</rss>
